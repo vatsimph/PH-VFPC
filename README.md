@@ -1,17 +1,35 @@
-# VFPC Plugin
+# PH-VFPC Plugin
  
-The PH-VFPC (Philippines Virtual Flight Plan Checker) is a plugin for EuroScope for Philippines vACC controllers to check flight plans against relevant route and altitude restrictions. 
-Originally developed by hpeter2 and DrFreas, and was adapted by Philippines vACC from vatsimhk repository, it has been expanded on with modified functionality to better suit the needs of PHvACC. You can find the codebase of the original plugin [here](https://github.com/hpeter2/VFPC).
-As such, the code will continue to remain open source and free to download for any controllers. However, other vACCs looking to implement or modify a similar flight plan checker may find the original plugin's versatility more useful.'
+The PH-VFPC (Philippines Virtual Flight Plan Checker) plugin for EuroScope is used by vACC controllers in the Philippines to review flight plans against pertinent route and altitude constraints. It was originally created by [hpeter2](https://github.com/hpeter2) and [DrFreas](https://github.com/DrFreas) and adapted by the Philippines vACC from the vatsimhk repository. To better meet the demands of the vACC, it has been improved with updated features. The original plugin's codebase is available [here](https://github.com/hpeter2/VFPC). As a result, the code will continue to be available for download for free on all controllers. However, other vACCs may find the original plugin's adaptability to be more beneficial if they wish to develop or alter a similar flight plan checker.
 
-This plugin is still in active development, and may still contain bugs in the logic and general instability. Controllers, and especially new trainees, should not rely on this plugin for all flight plan validation.
-While it will greatly aid delivery controllers, it **does not negate the need for delivery controllers to thoroughly check every flight plan before release.** It cannot provide a solution to more major route issues.
+This plugin is still under development. Thus, there may still be logical errors and overall instability. Flight controllers shouldn't just rely on this plugin to validate flight plans, especially inexperienced ones.
+
+**While it will be of considerable assistance to delivery controllers, it cannot resolve more significant route problems.** Delivery controllers must still carefully review each flight plan before releasing it.
+
+## Features
+- Tag item VFPC: Shows check-result as green 'OK!' or red 'FPL!' ('SID' = No valid SID found, 'ENG' = Failed Engine type restriction, 'E/O' = Failed even/odd Flightlevel, 'MIN' = Failed minimum Flight Level, 'MAX' = Failed maximum Flightlevel)
+- Tag function 'Check FP': Explains the check-result in chat output
+- Chat command '.vfpc reload': reload the Sid.json config
+- Chat command '.vfpc check': checks currently selected AC and outputs result
+- Restrictions customizable in Sid.json config
+- Checks Even/Odd Flightlevel restriction
+- Checks Minimum & Maximum Flightlevel restriction
+- Check condition 'route must contain airway' available
+- Check condition 'destination must be' available
+- Check condition 'aircraft type must be' available (? - unknown, P - piston, T - turboprop/turboshaft, J - jet, E - electric)
 
 ## How to use:
-- Load up the plugin
+### Load up the plugin
+- Proceed to ```Other Set > Plug-ins```
+![Plugin Dialog](https://i.imgur.com/a1knt0u.png)
 - Add Tag Item type & function to Departure List
 
 If you get an error on load, please install the [latest C++ redistributables](https://aka.ms/vs/17/release/vc_redist.x86.exe)
 
-### How to define configurations
-Examples can be found in the given Sid.json file.
+## Report a Bug
+You can create an issue [report](https://github.com/vatsimph/PH-VFPC/issues) with a brief description of the bug/problem and we will address it for the next release.
+
+## Contribute
+All vACC certified controllers and staff members are eligible to contribute to the sector file. Feel free to send me an email on [kenzo.tayko@vatphil.com](mailto:kenzo.tayko@vatphil) with your Github username and your Vatsim CID for the mere reason to verify your identity. Contributions from unverified accounts will not be accepted/merged.
+
+Once the verification is finish, you can now modify the plugin contents by forking this repository and pulling a request for merging
