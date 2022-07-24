@@ -20,7 +20,7 @@ This plugin is still under development. Thus, there may still be logical errors 
 - Check condition 'destination must be' available
 - Check condition 'aircraft type must be' available (? - unknown, P - piston, T - turboprop/turboshaft, J - jet, E - electric)
 
-## How to use:
+## How to use
 ### Load up the plugin
 - Proceed to ```Other Set > Plug-ins```
 ![Plugin Dialog](https://i.imgur.com/a1knt0u.png)
