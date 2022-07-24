@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/v/release/vatsimph/PH-VFPC?color=%23F56040)](https://github.com/vatsimph/PH-VFPC/releases/latest)
 
-[![Discord](https://img.shields.io/discord/275064722678743042.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://vats.im/vatphil-discord)  [![Facebook](https://img.shields.io/badge/-Philippines%20vACC-e84393?label=&logo=facebook&logoColor=ffffff&color=3b5998&labelColor=2f477a)](https://www.facebook.com/philippinesvacc/) [![Instagram](https://img.shields.io/badge/-@vatphil-e84393?label=&logo=instagram&logoColor=ffffff&color=ada332&labelColor=9c922c)](https://www.facebook.com/philippinesvacc/)
+[![Discord](https://img.shields.io/discord/275064722678743042.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://vats.im/vatphil-discord)  [![Facebook](https://img.shields.io/badge/-Philippines%20vACC-e84393?label=&logo=facebook&logoColor=ffffff&color=3b5998&labelColor=2f477a)](https://www.facebook.com/philippinesvacc/) [![Instagram](https://img.shields.io/badge/-@vatphil-e84393?label=&logo=instagram&logoColor=ffffff&color=ada332&labelColor=9c922c)](https://www.instagram.com/vatphil/)
 
 The PH-VFPC (Philippines Virtual Flight Plan Checker) plugin for EuroScope is used by vACC controllers in the Philippines to review flight plans against pertinent route and altitude constraints. It was originally created by [hpeter2](https://github.com/hpeter2) and [DrFreas](https://github.com/DrFreas) and adapted by the Philippines vACC from the vatsimhk repository. To better meet the demands of the vACC, it has been improved with updated features. The original plugin's codebase is available [here](https://github.com/hpeter2/VFPC). 
 
