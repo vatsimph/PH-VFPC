@@ -1,6 +1,8 @@
 # PH-VFPC Plugin
  
-The PH-VFPC (Philippines Virtual Flight Plan Checker) plugin for EuroScope is used by vACC controllers in the Philippines to review flight plans against pertinent route and altitude constraints. It was originally created by [hpeter2](https://github.com/hpeter2) and [DrFreas](https://github.com/DrFreas) and adapted by the Philippines vACC from the vatsimhk repository. To better meet the demands of the vACC, it has been improved with updated features. The original plugin's codebase is available [here](https://github.com/hpeter2/VFPC). As a result, the code will continue to be available for download for free on all controllers. However, other vACCs may find the original plugin's adaptability to be more beneficial if they wish to develop or alter a similar flight plan checker.
+The PH-VFPC (Philippines Virtual Flight Plan Checker) plugin for EuroScope is used by vACC controllers in the Philippines to review flight plans against pertinent route and altitude constraints. It was originally created by [hpeter2](https://github.com/hpeter2) and [DrFreas](https://github.com/DrFreas) and adapted by the Philippines vACC from the vatsimhk repository. To better meet the demands of the vACC, it has been improved with updated features. The original plugin's codebase is available [here](https://github.com/hpeter2/VFPC). 
+
+As a result, the code will continue to be available for download for free on all controllers. However, other vACCs may find the original plugin's adaptability to be more beneficial if they wish to develop or alter a similar flight plan checker.
 
 This plugin is still under development. Thus, there may still be logical errors and overall instability. Flight controllers shouldn't just rely on this plugin to validate flight plans, especially inexperienced ones.
 
