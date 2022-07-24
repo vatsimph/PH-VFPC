@@ -1,6 +1,6 @@
 # PH-VFPC Plugin 
 
-[![GitHub latest release version](https://img.shields.io/github/v/release/vatsimph/PH-VFPC.svg?style=flat)](https://github.com/flybywiresim/a32nx/releases/latest)
+[![GitHub latest release version](https://img.shields.io/github/v/release/vatsimph/PH-VFPC.svg?style=flat)](https://github.com/vatsimph/PH-VFPC/releases/latest)
 
 [![Discord](https://img.shields.io/discord/275064722678743042.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://vats.im/vatphil-discord)  [![Facebook](https://img.shields.io/badge/-Philippines%20vACC-e84393?label=&logo=facebook&logoColor=ffffff&color=3b5998&labelColor=2f477a)](https://www.facebook.com/philippinesvacc/) [![Instagram](https://img.shields.io/badge/-@vatphil-e84393?label=&logo=instagram&logoColor=ffffff&color=ada332&labelColor=9c922c)](https://www.facebook.com/philippinesvacc/)
 
