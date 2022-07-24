@@ -1,0 +1,987 @@
+[
+   {
+      "icao": "RPLB",
+      "sids": {
+         "ARITA": [
+            {
+               "direction": "ANY",
+               "min_fl": 70,
+               "airways": "TR26"
+            }
+         ],
+         "EISMA": [
+            {
+               "direction": "EVEN",
+               "min_fl": 70
+            }
+         ],
+         "EXORA": [
+            {
+               "direction": "ANY",
+               "min_fl": 140
+            }
+         ],
+         "KIBOK": [
+            {
+               "direction": "ANY",
+               "min_fl": 70,
+               "airways": "TR24"
+            }
+         ],
+         "NATIB": [
+            {
+               "direction": "ANY",
+               "min_fl": 60
+            }
+         ],
+         "SILAG": [
+            {
+               "direction": "ANY",
+               "min_fl": 70,
+               "airways": "L628"
+            }
+         ],
+         "SIMBO": [
+            {
+               "direction": "ANY",
+               "min_fl": 60
+            }
+         ],
+         "SUSIE": [
+            {
+               "direction": "ANY",
+               "min_fl": 60,
+               "airways": "B591"
+            }
+         ],
+         "VILAR": [
+            {
+               "direction": "ANY",
+               "min_fl": 90,
+               "airways": "B591"
+            }
+         ]
+      }
+   }, 
+   {
+      "icao": "RPLC",
+      "sids": {
+         "BAYAN": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ],
+         "KIBOK": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ],
+         "MALIB": [
+            {
+               "direction": "ANY",
+               "min_fl": 90
+            }
+         ],
+         "OLIVA": [
+            {
+               "direction": "ANY",
+               "min_fl": 60
+            }
+         ],
+         "RAYAT": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ],
+         "RIANO": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ]
+      }
+   }, 
+   {
+      "icao": "RPLI",
+      "sids": {
+         "ALDIS": [
+            {
+               "direction": "EVEN",
+               "min_fl": 70,
+               "airways": "M501"
+            }
+         ],
+         "CHRIS": [
+            {
+               "direction": "ODD",
+               "min_fl": 70,
+               "airways": "M646"
+            }
+         ],
+         "ESSYL": [
+            {
+               "direction": "ODD",
+               "min_fl": 130,
+               "airways": "B462"
+            }
+         ],
+         "MELAN": [
+            {
+               "direction": "ANY",
+               "min_fl": 70,
+               "airways": "M646"
+            }
+         ],
+         "MINIO": [
+            {
+               "direction": "ODD",
+               "min_fl": 90,
+               "airways": "B462"
+            }
+         ],
+         "PAMKI": [
+            {
+               "direction": "ODD",
+               "min_fl": 70,
+               "airways": "W2"
+            }
+         ]
+      }
+   }, 
+   {
+      "icao": "RPLK",
+      "sids": {
+         "MASBA": [
+            {
+               "direction": "EVEN",
+               "min_fl": 40
+            }
+         ],
+         "NAGA": [
+            {
+               "direction": "EVEN",
+               "min_fl": 40
+            }
+         ]
+      }
+   }, 
+   {
+      "icao": "RPLL",
+      "sids": {
+         "ALPAS": [
+            {
+               "direction": "EVEN",
+               "min_fl": 140,
+               "airways": "M646"
+            }
+         ],
+         "BETEL": [
+            {
+               "direction": "EVEN",
+               "min_fl": 100, 
+               "airways": "M765"
+            }
+         ],
+         "BUCAL": [
+            {
+               "destinations": ["WSSS", "WMKK"],
+               "direction": "EVEN",
+               "allowed_fls": ["320", "360", "400"],
+               "airways": "M646 TEGID",
+               "min_fl": 140, 
+               "FLAS": "FL320, FL360, FL400"
+            }, 
+            {
+               "destinations": ["WSSS", "WMKK"],
+               "direction": "EVEN",
+               "allowed_fls": ["320", "360", "400"],
+               "airways": "M646 TOKON",
+               "min_fl": 140, 
+               "FLAS": "FL320, FL360, FL400"
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 140, 
+               "airways": "M646"
+            }
+         ],
+         "CAB": [
+            {
+               "destinations": ["VHHH", "VMMC", "VHHX"],
+               "allowed_fls": ["300", "340", "380"],
+               "airways": "A461 B462 W11 NOMAN",
+               "min_fl": 140,
+               "FLAS": "FL300, FL340, FL380"
+            }, 
+            {
+               "destinations": ["VHHH", "VMMC", "VHHX"],
+               "allowed_fls": ["300", "340", "380"],
+               "airways": "A461 B462 W11 SABNO",
+               "min_fl": 140,
+               "FLAS": "FL300, FL340, FL380"
+            },
+            {
+               "direction": "ANY",
+               "min_fl": 140, 
+               "airways": "A461 B462 W11"
+            }
+         ],
+         "CONDE": [
+            {
+               "direction": "ODD",
+               "min_fl": 110, 
+               "airways": "W11"
+            }
+         ],
+         "DINNO": [
+            {
+               "direction": "EVEN",
+               "min_fl": 134
+            }
+         ],
+         "ESCAN": [
+            {
+               "direction": "ODD",
+               "min_fl": 140,
+               "airways": "M646"
+            }
+         ],
+         "IBAGO": [
+            {
+               "direction": "ANY",
+               "min_fl": 110,
+               "airways": "B472"
+            }
+         ],
+         "LAIYA": [
+            {
+               "direction": "ODD",
+               "min_fl": 140,
+               "airways": "B473"
+            }
+         ],
+         "HARBO": [
+            {
+               "direction": "ANY",
+               "min_fl": 19
+            }
+         ],
+         "IPATA": [
+            {
+               "direction": "ODD",
+               "min_fl": 110,
+               "destinations": ["RPVM", "RPSP", "RPVA", "RPMD", "RPMY"]
+            }
+         ],
+         "JOM": [
+            {
+               "direction": "ODD",
+               "min_fl": 140,
+               "airways": "A590 G467 W9B"
+            }
+         ],
+         "LBG": [
+            {
+               "direction": "ANY",
+               "min_fl": 110,
+               "airways": "W3"
+            }
+         ],
+         "NATIB": [
+            {
+               "direction": "EVEN",
+               "min_fl": 70,
+               "airways": "W23"
+            }
+         ],
+         "OLIVA": [
+            {
+               "destinations": ["VHHH", "VMMC", "VHHX"],
+               "allowed_fls": ["300", "340", "380"],
+               "airways": "W4 W16",
+               "min_fl": 140, 
+               "FLAS": "FL300, FL340, FL380"
+            }, 
+            {
+               "destinations": ["VHHH", "VMMC", "VHHX"],
+               "allowed_fls": ["300", "340", "380"],
+               "airways": "W4 W16",
+               "min_fl": 140, 
+               "FLAS": "FL300, FL340, FL380"
+            },
+           {
+               "direction": "ANY",
+               "min_fl": 140, 
+               "airways": "W4 W16"
+            }
+        ],
+        "SIRCA": [
+            {
+               "direction": "EVEN",
+               "min_fl": 110,
+               "airways": "L628"
+            }
+         ],
+         "TIMON": [
+            {
+               "direction": "ODD",
+               "min_fl": 110,
+               "destinations": ["RPLK", "RPLP"], 
+               "airways": "W15"
+            }
+         ],
+         "VERDE": [
+            {
+               "direction": "ANY",
+               "min_fl": 110,
+               "destinations": ["RPVE", "RPVK", "RPVR", "RPVI", "RPVB", "RPVD", "RPVR", "RPMZ"], 
+               "airways": "W24 A461"
+            }
+         ]
+      }
+   }, 
+   {
+      "icao": "RPLP",
+      "sids": {
+         "MASBA": [
+            {
+               "direction": "EVEN",
+               "min_fl": 80
+            }
+         ],
+         "NAGA": [
+            {
+               "direction": "EVEN",
+               "min_fl": 80
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPVA",
+      "sids": {
+         "ALICO": [
+            {
+               "direction": "ODD",
+               "min_fl": 70,
+               "airways":"R337"
+            }
+         ],
+         "ARREX": [
+            {
+               "direction": "EVEN",
+               "min_fl": 60,
+               "airways": "B462"
+            }
+         ],
+         "BANWA": [
+            {
+               "direction": "ANY",
+               "min_fl": 80,
+               "airways": "W9"
+            }
+         ],
+         "LARYO": [
+            {
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "MALAG": [
+            {
+               "direction": "EVEN",
+               "min_fl": 100,
+               "airways": "W9"
+            }
+         ],
+         "PONSO": [
+            {
+               "direction": "EVEN",
+               "min_fl": 60,
+               "airways": "G578"
+            }
+         ],
+         "SADOK": [
+            {
+               "direction": "ANY",
+               "min_fl": 150,
+               "airways": "B462"
+            }
+         ],
+         "TAGPI": [
+            {
+               "direction": "ODD",
+               "min_fl": 80,
+               "airways": "G578"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPVB",
+      "sids": {
+         "DEEPS": [
+            {
+               "direction": "ODD",
+               "min_fl": 110,
+               "airways":"W7"
+            }
+         ],
+         "GALIA": [
+            {
+               "direction": "ANY",
+               "min_fl": 50
+            }
+         ],
+         "ILOILO": [
+            {
+               "direction": "ANY",
+               "min_fl": 15
+            }
+         ],
+         "KANON": [
+            {
+               "direction": "ODD",
+               "min_fl": 90
+            }
+         ],
+         "LAMBO": [
+            {
+               "direction": "EVEN",
+               "min_fl": 80
+            }
+         ],
+         "MARAO": [
+            {
+               "direction": "EVEN",
+               "min_fl": 40
+            }
+         ],
+         "NANAS": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "NASAG": [
+            {
+               "direction": "EVEN",
+               "min_fl": 40
+            }
+         ],
+         "PALAY": [
+            {
+               "direction": "EVEN",
+               "min_fl": 80
+            }
+         ],
+         "TADAG": [
+            {
+               "direction": "ODD",
+               "min_fl": 110
+            }
+         ],
+         "VICTA": [
+            {
+               "direction": "ODD",
+               "min_fl": 50
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPVD",
+      "sids": {
+         "AROLA": [
+            {
+               "direction": "ODD",
+               "min_fl": 10
+            }
+         ],
+         "NANAS": [
+            {
+               "direction": "EVEN",
+               "min_fl": 10
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPVE",
+      "sids": {
+         "KALIBO": [
+            {
+               "direction": "ANY",
+               "min_fl": 50
+            }
+         ],
+         "KLO": [
+            {
+               "direction": "ANY",
+               "min_fl": 50
+            }
+         ],
+         "LAMBO": [
+            {
+               "direction": "ANY",
+               "min_fl": 90,
+               "airways": "B472"
+            }
+         ],
+         "MINOR": [
+            {
+               "direction": "ANY",
+               "min_fl": 80,
+               "airways": "B473"
+            }
+         ],
+         "TAPER": [
+            {
+               "direction": "ANY",
+               "min_fl": 90,
+               "airways": "B472"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPVI",
+      "sids": {
+         "BACOLOD": [
+            {
+               "direction": "ANY",
+               "min_fl": 50
+            }
+         ],
+         "BCD": [
+            {
+               "direction": "ANY",
+               "min_fl": 50
+            }
+         ],
+         "BARBA": [
+            {
+               "direction": "ANY",
+               "min_fl": 90
+            }
+         ],
+         "BUSOG": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "CADIZ": [
+            {
+               "direction": "ANY",
+               "min_fl": 50
+            }
+         ],
+         "DEEPS": [
+            {
+               "direction": "ANY",
+               "min_fl": 110
+            }
+         ],
+         "GALIA": [
+            {
+               "direction": "ANY",
+               "min_fl": 50
+            }
+         ],
+         "LAMBO": [
+            {
+               "direction": "ANY",
+               "min_fl": 90
+            }
+         ],
+         "NANAS": [
+            {
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "PALAY": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "PIKAN": [
+            {
+               "direction": "ANY",
+               "min_fl": 130
+            }
+         ],
+         "VICTA": [
+            {
+               "direction": "ANY",
+               "min_fl": 50
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPVK",
+      "sids": {
+         "BUNGA": [
+            {
+               "direction": "ODD",
+               "min_fl": 110
+            }
+         ],
+         "BUSOG": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "CT": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ],
+         "GALIA": [
+            {
+               "direction": "ANY",
+               "min_fl": 110
+            }
+         ],
+         "MINOR": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "ROX": [
+            {
+               "direction": "ANY",
+               "min_fl": 10
+            }
+         ],
+         "TAPER": [
+            {
+               "direction": "ANY",
+               "min_fl": 90
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPSP",
+      "sids": {
+         "LAMOK": [
+            {
+               "direction": "ANY",
+               "min_fl": 10
+            }
+         ],
+         "ZENKY": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPVM",
+      "sids": {
+         "ALDIN": [
+            {
+               "direction": "ANY",
+               "min_fl": 80,
+               "airways": "G578 B472"
+            }
+         ],
+         "BAMPA": [
+            {
+               "direction": "ANY",
+               "min_fl": 80,
+               "airways": "W14"
+            }
+         ],
+         "BATAY": [
+            {
+               "direction": "ANY",
+               "min_fl": 60,
+               "airways": "W8 W25"
+            }
+         ],
+         "BOHOL": [
+            {
+               "direction": "ANY",
+               "min_fl": 130,
+               "airways": "W8"
+            }
+         ],
+         "CAREB": [
+            {
+               "direction": "ANY",
+               "min_fl": 130
+            }
+         ],
+         "COBOL": [
+            {
+               "direction": "ANY",
+               "min_fl": 60,
+               "airways": "W21"
+            }
+         ],
+         "DIMLO": [
+            {
+               "direction": "ANY",
+               "min_fl": 130, 
+               "airways": "W6A"
+            }
+         ],
+         "EMDEE": [
+            {
+               "direction": "ANY",
+               "min_fl": 130, 
+               "airways": "W7"
+            }
+         ],
+         "KANON": [
+            {
+               "direction": "ANY",
+               "min_fl": 90, 
+               "airways": "TR2"
+            }
+         ],
+         "MOLOC": [
+            {
+               "direction": "ANY",
+               "min_fl": 150, 
+               "airways": "W11"
+            }
+         ],
+         "PARAO": [
+            {
+               "direction": "ANY",
+               "min_fl": 130, 
+               "airways": "W6A"
+            }
+         ],
+         "PONSO": [
+            {
+               "direction": "ODD",
+               "min_fl": 60, 
+               "airways": "G578"
+            }
+         ],
+         "TADAG": [
+            {
+               "direction": "ODD",
+               "min_fl": 110, 
+               "airways": "TR3 TR10"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPME",
+      "sids": {
+         "BAMPA": [
+            {
+               "direction": "ANY",
+               "min_fl": 10
+            }
+         ],
+         "KAWIT": [
+            {
+               "direction": "ANY",
+               "min_fl": 10
+            }
+         ],
+         "TACLO": [
+            {
+               "direction": "ANY",
+               "min_fl": 10
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPMR",
+      "sids": {
+         "JINET": [
+            {
+               "direction": "ANY",
+               "min_fl": 100,
+               "airways": "R342"
+            }
+         ],
+         "LATIA": [
+            {
+               "direction": "ANY",
+               "min_fl": 130
+            }
+         ],
+         "MEGOM": [
+            {
+               "direction": "ODD",
+               "min_fl": 60
+            }
+         ],
+         "SEBUL": [
+            {
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPMY",
+      "sids": {
+         "ANKIN": [
+            {
+               "direction": "ANY",
+               "min_fl": 140
+            }
+         ],
+         "LIRYX": [
+            {
+               "direction": "ANY",
+               "min_fl": 110
+            }
+         ],
+         "MAURI": [
+            {
+               "direction": "ANY",
+               "min_fl": 14
+            }
+         ],
+         "NADUM": [
+            {
+               "direction": "ANY",
+               "min_fl": 150
+            }
+         ],
+         "SIKIN": [
+            {
+               "direction": "ANY",
+               "min_fl": 110
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPMZ",
+      "sids": {
+         "BURCO": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "COGEL": [
+            {
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "GOSTO": [
+            {
+               "direction": "ANY",
+               "min_fl": 10
+            }
+         ],
+         "MASUN": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ],
+         "PARAL": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "PILAS": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "TABUL": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ],
+         "TANAL": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ],
+         "TINDO": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ]
+      }
+   },
+   {
+      "icao": "RPMD",
+      "sids": {
+         "ANKIN": [
+            {
+               "direction": "EVEN",
+               "min_fl": 130,
+               "airways": "B473"
+            }
+         ],
+         "DAPEL": [
+            {
+               "direction": "ODD",
+               "min_fl": 130,
+               "airways": "B473"
+            }
+         ],
+         "DEWIN": [
+            {
+               "direction": "EVEN",
+               "min_fl": 130,
+               "airways": "W10"
+            }
+         ],
+         "JOFER": [
+            {
+               "direction": "EVEN",
+               "min_fl": 50,
+               "airways": "W8"
+            }
+         ],
+         "LATIA": [
+            {
+               "direction": "EVEN",
+               "min_fl": 50,
+               "airways": "W6 W10A"
+            }
+         ],
+         "MEGOM": [
+            {
+               "direction": "EVEN",
+               "min_fl": 60,
+               "airways": "W10A R342"
+            }
+         ],
+         "RIMAR": [
+            {
+               "direction": "ANY",
+               "min_fl": 80,
+               "airways": "W9"
+            }
+         ]
+      }
+   }
+]
