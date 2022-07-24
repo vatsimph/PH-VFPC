@@ -28,7 +28,7 @@ This plugin is still under development. Thus, there may still be logical errors 
 ### Load up the plugin
 - Proceed to ```Other Set > Plug-ins```
 ![Plugin Dialog](https://i.imgur.com/a1knt0u.png)
-- Add Tag Item type & function to Departure List
+- Add Tag Item type & function to Departure List (See full instruction [here](https://github.com/hpeter2/VFPC#how-to-use))
 
 If you get an error on load, please install the [latest C++ redistributables](https://aka.ms/vs/17/release/vc_redist.x86.exe)
 
