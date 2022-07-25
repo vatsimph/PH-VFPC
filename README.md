@@ -37,7 +37,7 @@ If you get an error on load, please install the [latest C++ redistributables](ht
 You can create an issue [report](https://github.com/vatsimph/PH-VFPC/issues) with a brief description of the bug/problem and we will address it for the next release.
 
 ## Contribute
-All vACC certified controllers and staff members are eligible to contribute to the sector file. Feel free to send me an email on [kenzo.tayko@vatphil.com](mailto:kenzo.tayko@vatphil) with your Github Username and your VATSIM CID for the mere reason to verify your identity. Contributions from unverified accounts will not be accepted/merged.
+All vACC certified controllers and staff members are eligible to contribute to the sector file. Feel free to send me an email on [kenzo.tayko@vatphil.com](mailto:kenzo.tayko@vatphil) with your Github Username and your VATSIM CID to verify your identity. Contributions from unverified accounts will not be accepted/merged.
 
 Once the verification is finish, you can now modify the plugin contents by forking this repository and pulling a request for merging.
 
