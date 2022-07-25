@@ -689,6 +689,41 @@
       }
    },
    {
+      "icao": "RPVP",
+      "sids": {
+         "DABOY": [
+            {
+               "direction": "ANY",
+               "min_fl": 70
+            }
+         ],
+         "MARIN": [
+            {
+               "direction": "EVEN",
+               "min_fl": 60
+            }
+         ],
+         "MIKEL": [
+            {
+               "direction": "EVEN",
+               "min_fl": 150
+            }
+         ],
+         "NOMYO": [
+            {
+               "direction": "ODD",
+               "min_fl": 80
+            }
+         ],
+         "SAIRA": [
+            {
+               "direction": "ANY",
+               "min_fl": 80
+            }
+         ]
+      }
+   },
+   {
       "icao": "RPVM",
       "sids": {
          "ALDIN": [
