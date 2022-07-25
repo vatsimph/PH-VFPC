@@ -41,4 +41,4 @@ All vACC certified controllers and staff members are eligible to contribute to t
 
 Once the verification is finish, you can now modify the plugin contents by forking this repository and pulling a request for merging.
 
-<sub>[Privacy Policy](https://github.com/vatsimph/PH-VFPC/blob/main/Privacy-Policy.md)</sub>
+<sub>[Privacy Policy](https://github.com/vatsimph/PH-VFPC/blob/main/Privacy-Policy.md) | [Website](https://vatphil.com)</sub> 
